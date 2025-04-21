@@ -1,2 +1,8 @@
 # order-ms
-Order Microservice Consumer
+Order Microservice Listener
+
+## tech
+- Java
+- Spring
+- RabbitMq
+- MongoDb
